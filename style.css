@@ -28,7 +28,8 @@ em strong{
 }
 
 .itens{
-    font-style: italic
+    font-style: italic;
+    color: #FF5500;
 }
 
 .beneficios{
